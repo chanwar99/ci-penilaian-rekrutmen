@@ -1,9 +1,9 @@
 # aplikasi penilaian rekrutmen
-## untuk admin : http://localhost/penilaian-rekrutmen
+## untuk admin : http://localhost/ci-penilaian-rekrutmen
 - username : chanwar99
 - password : admin
 
-## untuk mengakses tes : http://localhost/penilaian-rekrutmen/tes
+## untuk mengakses tes : http://localhost/ci-penilaian-rekrutmen/tes
 - kode tes : (berasal dari kode tes yang di buat oleh admin)
 
 ## nama database = db_penilaian_rekrutmen
