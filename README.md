@@ -9,4 +9,4 @@
 ## nama database = db_penilaian_rekrutmen
 - file sql berada direktori ini nama filenya db_penilaian_rekrutmen.sql jadi tinggal import ke phpmyadmin atau semacamnya
 
-## keterangan : belum di hostingkan/online jadi sementara localhost dulu!
+## keterangan : belum di hostingkan/online karena ada kendala jadi sementara localhost dulu!
